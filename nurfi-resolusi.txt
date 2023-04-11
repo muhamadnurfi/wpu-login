@@ -1,0 +1,7 @@
+Halo pak salam kenal nama saya nurfi dari bekasi
+saya mahasiswa Universitas Bani Saleh Kota Bekasi
+
+Resolusi saya :
+- membuat website menggunakan Javascript
+- saya ingin bekerja di startup
+- ingin membuat website menggunakan laravel dan next.js
